@@ -20,9 +20,10 @@ redirect_from:
 
 He is currently a 1st-year master student of <a href='http://aim-nercms.whu.edu.cn/'>AIM Lab</a> at <a href='http://multimedia.whu.edu.cn/'>National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)</a> and <a href='https://www.whu.edu.cn/'>Wuhan University (武汉大学)</a>, advised by <a href='https://wangzwhu.github.io/home/'>Prof. Zheng Wang</a>
 
-My research interest includes crowd counting, object detection and computer vision. 
+His research interest includes crowd counting, object detection and computer vision. 
 If you are seeking any form of <strong>academic cooperation</strong> on crowd counting, raw object detection, please feel free to email at <a href="mailto:whuocean.whu.edu.cn">whuocean@whu.edu.cn</a>
 
+<a href='assets/xiehaiyang_cv_cn.pdf'>CV<strong></strong></a>
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 He won the first place in the Challenge on Low-light Object Detection and instance Segmentation (Detection) and the third place in (Segmentation), the 4th Physics-Based Vision meets Deep Learning Workshop, CVPR 2024.
