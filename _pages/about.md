@@ -35,7 +35,7 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 
 [Striking a balance: Unsupervised cross-domain crowd counting via knowledge diffusion](https://dl.acm.org/doi/abs/10.1145/3581783.3611797)
 
-<strong>Haiyang Xie*</strong>, Zhengwei Yang, Huilin Zhu, Zheng Wang,
+<strong>Haiyang Xie*</strong>, Zhengwei Yang\*, Huilin Zhu, Zheng Wang,
 
 - This paper introduces a Selfawareness Knowledge Diffusion method (SaKnD) that leverages the self-knowledge without establishing cross-domain knowledge relationships, which aims to balance the knowledge bias between general and domain-specific knowledge
 </div>
