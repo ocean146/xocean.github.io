@@ -18,42 +18,40 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-He is currently a 1st-year Master student of <a href='http://aim-nercms.whu.edu.cn/'>AIM Lab</a> at National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心) and Wuhan University (武汉大学), advised by Prof. Zheng Wang
+He is currently a 1st-year master student of <a href='http://aim-nercms.whu.edu.cn/'>AIM Lab</a> at <a href='http://multimedia.whu.edu.cn/'>National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)</a> and <a href='https://www.whu.edu.cn/'>Wuhan University (武汉大学)</a>, advised by <a href='https://wangzwhu.github.io/home/'>Prof. Zheng Wang</a>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes crowd counting, object detection and computer vision. 
+If you are seeking any form of <strong>academic cooperation</strong> on crowd counting, raw object detection, please feel free to email at <a href="mailto:whuocean.whu.edu.cn">whuocean@whu.edu.cn</a>
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 He won the first place in the Challenge on Low-light Object Detection and instance Segmentation (Detection) and the third place in (Segmentation), the 4th Physics-Based Vision meets Deep Learning Workshop, CVPR 2024.
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023!. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Striking a balance: Unsupervised cross-domain crowd counting via knowledge diffusion](https://dl.acm.org/doi/abs/10.1145/3581783.3611797)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<strong>Haiyang Xie*</strong>, Zhengwei Yang, Huilin Zhu, Zheng Wang,
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This paper introduces a Selfawareness Knowledge Diffusion method (SaKnD) that leverages the self-knowledge without establishing cross-domain knowledge relationships, which aims to balance the knowledge bias between general and domain-specific knowledge
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* He won the first place in the Challenge on Low-light Object Detection and instance Segmentation (Detection) and the third place in (Segmentation), the 4th Physics-Based Vision meets Deep Learning Workshop, CVPR 2024. 
+- *2022.09* He received the first prize Tencent Scholarship.
+- *2022.09* He received the first-class scholarship from Wuhan University.
+- *2020.12* He won the first prize in the Hubei Province division of the National College Student Mathematics Competition.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - 2026.06 (now)*, Master, Wuhan University, Wuhan.
+- *2018.09 - 2023.06*, Bachelor, Wuhan University, Wuhan.
+- *2020.03 - 2021.06*, Minor in Economics, Wuhan University, Wuhan.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2024.08*, TeleAI, Beijing, China.
+- *2023.06 - 2023.09*, [intellindust](https://intellindust.cn/), Shenzhen, China, advised by [Xi Shen](https://xishen0220.github.io/).
