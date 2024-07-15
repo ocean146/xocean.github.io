@@ -26,8 +26,8 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 <a href='../assets/xiehaiyang_cv_cn.pdf'>CV<strong></strong></a>
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 He won the first place in the Challenge on Low-light Object Detection and instance Segmentation (Detection) and the third place in (Segmentation), the 4th Physics-Based Vision meets Deep Learning Workshop, CVPR 2024.
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023!. 
+- *2024.06*: &nbsp;🎉🎉 He won the first place in the Challenge on Low-light Object Detection and instance Segmentation (Detection) and the third place in (Segmentation), the 4th Physics-Based Vision meets Deep Learning Workshop, CVPR 2024！
+- *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023!
 
 # 📝 Publications 
 
@@ -36,7 +36,7 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 
 [Striking a balance: Unsupervised cross-domain crowd counting via knowledge diffusion](https://dl.acm.org/doi/abs/10.1145/3581783.3611797)
 
-<strong>Haiyang Xie*</strong>, Zhengwei Yang\*, Huilin Zhu, Zheng Wang,
+<strong>Haiyang Xie*</strong>, Zhengwei Yang\*, Huilin Zhu, Zheng Wang†
 
 - This paper introduces a Selfawareness Knowledge Diffusion method (SaKnD) that leverages the self-knowledge without establishing cross-domain knowledge relationships, which aims to balance the knowledge bias between general and domain-specific knowledge
 </div>
